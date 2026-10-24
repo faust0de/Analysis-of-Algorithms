@@ -1,0 +1,2 @@
+Shape,Size,Foreground,Iterations,Runtime_ms,Components,Euler,Endpoints
+loop,21x21x21,360,3,8.42624,1->1,0->0,0
